@@ -41,8 +41,10 @@ using to bring these other selves to the relationship? This is what we mean by t
 most salience in the informational landscape available to it.
 
 Taking the above example imagine taking all the ways in which the mind can become a self (mind) and have them represented as a dynamical mathematical
-structure, this is what we have in mind when we say a mind equivalence. Now how would a human mind change how it becomes a mind when it has, in a sense
-incorporated this psycho-technology? This is what we are wondering about when we asked about how the knowledge of a mind equation changes the self.
+structure, this is what we have in mind when we say a mind equivalence. Note that this does not mean that this is the *way* of expressing what a mind is,
+given that it is a dynamical system, even the way that we come to sense it could change depending on the information available,this information can be
+understood as an environment or context. Now how would a human mind change how it becomes a mind when it has, in a sense incorporated this
+psycho-technology? This is what we are wondering about when we asked about how the knowledge of a mind equation changes the self.
 
 We currently don't have a fully formed answer but when we do we'll be considerate to share it. In the meantime you can ponder what this all means, consider
 how humans would interact with each other if they all had this knowledge? Thank you, we see you in the future.
