@@ -2,7 +2,7 @@
 layout: post
 title:  "The Mind Equivalence"
 date:   2023-02-28 16:08:53 +0300
-categories: computation mind self-reference philosophy
+categories: computation mind self-reference philosophy mathematics
 ---
 What if one had knowledge of a mind equation? Here what we mean by mind equation is a mathematical (or any other abstraction) structure that maps
 faithfully to the human mind. How would this sense change the being of the system that possesses that equivalence? We have mentioned a lot of concepts in
